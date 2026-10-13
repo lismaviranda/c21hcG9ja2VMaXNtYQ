@@ -12,229 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lisma =====
-[1]Lisma       |17:10:23 | 12-10-2026| login OK @lismaviranda | score=940 rank=6498
-[1]Lisma       |17:10:23 | 12-10-2026| serverTime=2026-10-12T17:10:23.000Z local=2026-10-12T17:10:23.438Z
+[1]Lisma       |15:26:55 | 13-10-2026| login OK @lismaviranda | score=1080 rank=5785
+[1]Lisma       |15:26:55 | 13-10-2026| serverTime=2026-10-13T15:26:54.000Z local=2026-10-13T15:26:55.040Z
 --> [1]Lisma menjalankan: Claim Daily
-[1]Lisma       |17:10:24 | 12-10-2026| daily: OK +10 poin score=950
---> [1]Lisma menjalankan: Auto All Tasks (10 pending)
-[1]Lisma       |17:10:27 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109692824868464876
-[1]Lisma       |17:10:27 | 12-10-2026| delay 10s...
-[1]Lisma       |17:10:39 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109692864467723575
-[1]Lisma       |17:10:39 | 12-10-2026| delay 10s...
-[1]Lisma       |17:10:51 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109693010811328252
-[1]Lisma       |17:10:51 | 12-10-2026| delay 10s...
-[1]Lisma       |17:11:03 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109693028087876006
-[1]Lisma       |17:11:03 | 12-10-2026| delay 10s...
-[1]Lisma       |17:11:15 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Lisma       |17:11:15 | 12-10-2026| delay 10s...
-[1]Lisma       |17:11:28 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109693114224099117
-[1]Lisma       |17:11:28 | 12-10-2026| delay 10s...
-[1]Lisma       |17:11:40 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109692881192591491
-[1]Lisma       |17:11:40 | 12-10-2026| delay 10s...
-[1]Lisma       |17:11:52 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109692960550671919
-[1]Lisma       |17:11:52 | 12-10-2026| delay 10s...
-[1]Lisma       |17:12:04 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2109693049570467962
-[1]Lisma       |17:12:04 | 12-10-2026| delay 10s...
-[1]Lisma       |17:12:16 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Lisma       |17:12:16 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lisma       |17:12:17 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/lismaviranda/status/2109693255051467538
+[1]Lisma       |15:26:56 | 13-10-2026| daily: OK +10 poin score=1090
+--> [1]Lisma menjalankan: Auto All Tasks (4 pending)
+[1]Lisma       |15:26:59 | 13-10-2026| [1/4] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2110029049084169483
+[1]Lisma       |15:26:59 | 13-10-2026| delay 10s...
+[1]Lisma       |15:27:12 | 13-10-2026| [2/4] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2110029151880209407
+[1]Lisma       |15:27:12 | 13-10-2026| delay 10s...
+[1]Lisma       |15:27:25 | 13-10-2026| [3/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/lismaviranda/status/2110029013086711312
+[1]Lisma       |15:27:25 | 13-10-2026| delay 10s...
+[1]Lisma       |15:27:38 | 13-10-2026| [4/4] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Lisma       |15:27:38 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lisma       |15:27:39 | 13-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/lismaviranda/status/2110029270680439141
 --> [1]Lisma menjalankan: Watch Anime
-[1]Lisma       |17:12:18 | 12-10-2026| watch: 3 video belum completed: smart-pocket-official-trailer,oshi-clash-launch-trailer,oshi-first-journey
-[1]Lisma       |17:12:18 | 12-10-2026| watch [1/3] farming smart-pocket-official-trailer...
-[1]Lisma       |17:12:19 | 12-10-2026| watch smart-pocket-official-trailer: mulai dari 0 (record 5.4s diabaikan)
-[1]Lisma       |17:12:19 | 12-10-2026| watch smart-pocket-official-trailer: 12% (5.40/42.00s)
-[1]Lisma       |17:12:26 | 12-10-2026| watch smart-pocket-official-trailer: 12% (5.40/42.00s)
-[1]Lisma       |17:12:32 | 12-10-2026| watch smart-pocket-official-trailer: 26% (11.04/42.00s)
-[1]Lisma       |17:12:38 | 12-10-2026| watch smart-pocket-official-trailer: 39% (16.49/42.00s)
-[1]Lisma       |17:12:44 | 12-10-2026| watch smart-pocket-official-trailer: 52% (22.03/42.00s)
-[1]Lisma       |17:12:50 | 12-10-2026| watch smart-pocket-official-trailer: 65% (27.64/42.00s)
-[1]Lisma       |17:12:57 | 12-10-2026| watch smart-pocket-official-trailer: 78% (33.17/42.00s)
-[1]Lisma       |17:13:03 | 12-10-2026| watch smart-pocket-official-trailer: 92% (38.81/42.00s)
-[1]Lisma       |17:13:03 | 12-10-2026| watch smart-pocket-official-trailer: COMPLETED (38.81/42.00s)
-[1]Lisma       |17:13:08 | 12-10-2026| watch [2/3] farming oshi-clash-launch-trailer...
-[1]Lisma       |17:13:09 | 12-10-2026| watch oshi-clash-launch-trailer: mulai dari 0 (record 48.7s diabaikan)
-[1]Lisma       |17:13:10 | 12-10-2026| watch oshi-clash-launch-trailer: 81% (48.69/60.00s)
-[1]Lisma       |17:13:16 | 12-10-2026| watch oshi-clash-launch-trailer: 81% (48.69/60.00s)
-[1]Lisma       |17:13:23 | 12-10-2026| watch oshi-clash-launch-trailer: 81% (48.69/60.00s)
-[1]Lisma       |17:13:29 | 12-10-2026| watch oshi-clash-launch-trailer: 88% (53.40/60.00s)
-[1]Lisma       |17:13:36 | 12-10-2026| watch oshi-clash-launch-trailer: 96% (57.79/60.00s)
-[1]Lisma       |17:13:36 | 12-10-2026| watch oshi-clash-launch-trailer: COMPLETED (57.79/60.00s)
-[1]Lisma       |17:13:41 | 12-10-2026| watch [3/3] farming oshi-first-journey...
-[1]Lisma       |17:13:42 | 12-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Lisma       |17:13:48 | 12-10-2026| watch oshi-first-journey: 6% (5.32/87.00s)
-[1]Lisma       |17:13:55 | 12-10-2026| watch oshi-first-journey: 12% (10.74/87.00s)
-[1]Lisma       |17:14:01 | 12-10-2026| watch oshi-first-journey: 18% (16.40/87.00s)
-[1]Lisma       |17:14:07 | 12-10-2026| watch oshi-first-journey: 25% (21.96/87.00s)
-[1]Lisma       |17:14:13 | 12-10-2026| watch oshi-first-journey: 31% (27.42/87.00s)
-[1]Lisma       |17:14:19 | 12-10-2026| watch oshi-first-journey: 38% (33.15/87.00s)
-[1]Lisma       |17:14:26 | 12-10-2026| watch oshi-first-journey: 44% (38.79/87.00s)
-[1]Lisma       |17:14:32 | 12-10-2026| watch oshi-first-journey: 51% (44.56/87.00s)
-[1]Lisma       |17:14:38 | 12-10-2026| watch oshi-first-journey: 57% (50.14/87.00s)
-[1]Lisma       |17:14:45 | 12-10-2026| watch oshi-first-journey: 63% (55.61/87.00s)
-[1]Lisma       |17:14:51 | 12-10-2026| watch oshi-first-journey: 71% (61.82/87.00s)
-[1]Lisma       |17:14:57 | 12-10-2026| watch oshi-first-journey: 77% (67.19/87.00s)
-[1]Lisma       |17:15:04 | 12-10-2026| watch oshi-first-journey: 83% (72.75/87.00s)
-[1]Lisma       |17:15:10 | 12-10-2026| watch oshi-first-journey: 90% (78.55/87.00s)
-[1]Lisma       |17:15:10 | 12-10-2026| watch oshi-first-journey: COMPLETED (78.55/87.00s)
+[1]Lisma       |15:27:40 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Lisma       |15:27:40 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Lisma       |15:27:42 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Lisma       |15:27:47 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Lisma       |15:27:51 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Lisma       |15:27:56 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Lisma       |15:27:58 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Lisma menjalankan: Read Article
-[1]Lisma       |17:15:11 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Lisma       |17:15:12 | 12-10-2026| mint eligibility: {"userId":"2011492164342333441","youtube":{"url":"https://www.youtube.com/@lismaviranda","status":"submitted","revision":"2ee02253-5f3b-45b8-95a1-d33d0bfa062e","submittedAt":1791686343,"reviewedAt":17
-[1]Lisma       |17:15:12 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Lisma       |15:27:59 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Lisma       |15:28:00 | 13-10-2026| mint eligibility: {"userId":"2011492164342333441","youtube":{"url":"https://www.youtube.com/@lismaviranda","status":"submitted","revision":"2ee02253-5f3b-45b8-95a1-d33d0bfa062e","submittedAt":1791686343,"reviewedAt":17
+[1]Lisma       |15:28:00 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Lisma menjalankan: Quiz Anime
-[1]Lisma       |17:15:12 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Lisma       |17:15:12 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Lisma       |17:15:12 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Lisma       |17:15:12 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Lisma       |17:15:12 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Lisma       |17:15:12 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Lisma       |15:28:00 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Lisma       |15:28:00 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Lisma       |15:28:00 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Lisma       |15:28:00 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Lisma       |15:28:00 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Lisma       |15:28:00 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Lisma menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lisma       |17:15:15 | 12-10-2026| music memutar "桃色の頃" (213s)...
-[1]Lisma       |17:15:26 | 12-10-2026| music "桃色の頃": 4% (9.001800000000001/213s)
-[1]Lisma       |17:15:37 | 12-10-2026| music "桃色の頃": 8% (18.9369/213s)
-[1]Lisma       |17:15:48 | 12-10-2026| music "桃色の頃": 13% (28.796400000000002/213s)
-[1]Lisma       |17:15:59 | 12-10-2026| music "桃色の頃": 18% (38.7864/213s)
-[1]Lisma       |17:16:10 | 12-10-2026| music "桃色の頃": 22% (48.654/213s)
-[1]Lisma       |17:16:21 | 12-10-2026| music "桃色の頃": 27% (59.0535/213s)
-[1]Lisma       |17:16:32 | 12-10-2026| music "桃色の頃": 32% (68.9805/213s)
-[1]Lisma       |17:16:44 | 12-10-2026| music "桃色の頃": 37% (78.8319/213s)
-[1]Lisma       |17:16:56 | 12-10-2026| music "桃色の頃": 41% (89.08290000000001/213s)
-[1]Lisma       |17:17:07 | 12-10-2026| music "桃色の頃": 46% (99.8289/213s)
-[1]Lisma       |17:17:18 | 12-10-2026| music "桃色の頃": 51% (109.8315/213s)
-[1]Lisma       |17:17:29 | 12-10-2026| music "桃色の頃": 56% (119.6757/213s)
-[1]Lisma       |17:17:41 | 12-10-2026| music "桃色の頃": 60% (129.609/213s)
-[1]Lisma       |17:17:52 | 12-10-2026| music "桃色の頃": 66% (140.5863/213s)
-[1]Lisma       |17:18:03 | 12-10-2026| music "桃色の頃": 70% (150.5538/213s)
-[1]Lisma       |17:18:14 | 12-10-2026| music "桃色の頃": 75% (160.5438/213s)
-[1]Lisma       |17:18:26 | 12-10-2026| music "桃色の頃": 80% (170.793/213s)
-[1]Lisma       |17:18:37 | 12-10-2026| music "桃色の頃": 84% (180.85410000000002/213s)
-[1]Lisma       |17:18:37 | 12-10-2026| music "桃色の頃": selesai 180.85410000000002s
-[1]Lisma       |17:18:40 | 12-10-2026| music memutar "記憶の名前" (224s)...
-[1]Lisma       |17:18:51 | 12-10-2026| music "記憶の名前": 4% (9.0054/224s)
-[1]Lisma       |17:19:02 | 12-10-2026| music "記憶の名前": 8% (18.833399999999997/224s)
-[1]Lisma       |17:19:13 | 12-10-2026| music "記憶の名前": 12% (28.760399999999997/224s)
-[1]Lisma       |17:19:24 | 12-10-2026| music "記憶の名前": 17% (38.897099999999995/224s)
-[1]Lisma       |17:19:35 | 12-10-2026| music "記憶の名前": 21% (48.72149999999999/224s)
-[1]Lisma       |17:19:46 | 12-10-2026| music "記憶の名前": 26% (58.70159999999999/224s)
-[1]Lisma       |17:19:57 | 12-10-2026| music "記憶の名前": 30% (68.67899999999999/224s)
-[1]Lisma       |17:20:08 | 12-10-2026| music "記憶の名前": 35% (78.606/224s)
-[1]Lisma       |17:20:19 | 12-10-2026| music "記憶の名前": 39% (88.5231/224s)
-[1]Lisma       |17:20:30 | 12-10-2026| music "記憶の名前": 43% (98.50229999999999/224s)
-[1]Lisma       |17:20:41 | 12-10-2026| music "記憶の名前": 48% (108.61829999999999/224s)
-[1]Lisma       |17:20:53 | 12-10-2026| music "記憶の名前": 52% (118.4994/224s)
-[1]Lisma       |17:21:03 | 12-10-2026| music "記憶の名前": 57% (128.4588/224s)
-[1]Lisma       |17:21:14 | 12-10-2026| music "記憶の名前": 61% (138.2832/224s)
-[1]Lisma       |17:21:26 | 12-10-2026| music "記憶の名前": 66% (148.2057/224s)
-[1]Lisma       |17:21:37 | 12-10-2026| music "記憶の名前": 70% (158.2812/224s)
-[1]Lisma       |17:21:48 | 12-10-2026| music "記憶の名前": 75% (168.1956/224s)
-[1]Lisma       |17:21:59 | 12-10-2026| music "記憶の名前": 79% (178.11450000000002/224s)
-[1]Lisma       |17:22:10 | 12-10-2026| music "記憶の名前": 83% (188.11350000000002/224s)
-[1]Lisma       |17:22:11 | 12-10-2026| music "記憶の名前": selesai 188.11350000000002s
-[1]Lisma       |17:22:13 | 12-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Lisma       |17:22:24 | 12-10-2026| music "Smart Pocket": 3% (9.0054/232s)
-[1]Lisma       |17:22:36 | 12-10-2026| music "Smart Pocket": 8% (19.2267/232s)
-[1]Lisma       |17:22:47 | 12-10-2026| music "Smart Pocket": 12% (29.2329/232s)
-[1]Lisma       |17:22:58 | 12-10-2026| music "Smart Pocket": 16% (39.1806/232s)
-[1]Lisma       |17:23:09 | 12-10-2026| music "Smart Pocket": 21% (49.0626/232s)
-[1]Lisma       |17:23:20 | 12-10-2026| music "Smart Pocket": 25% (59.043600000000005/232s)
-[1]Lisma       |17:23:31 | 12-10-2026| music "Smart Pocket": 29% (69.14070000000001/232s)
-[1]Lisma       |17:23:42 | 12-10-2026| music "Smart Pocket": 34% (79.14510000000001/232s)
-[1]Lisma       |17:23:53 | 12-10-2026| music "Smart Pocket": 38% (89.16480000000001/232s)
-[1]Lisma       |17:24:04 | 12-10-2026| music "Smart Pocket": 42% (99.06750000000001/232s)
-[1]Lisma       |17:24:17 | 12-10-2026| music "Smart Pocket": 46% (109.0143/232s)
-[1]Lisma       |17:24:28 | 12-10-2026| music "Smart Pocket": 52% (120.7377/232s)
-[1]Lisma       |17:24:40 | 12-10-2026| music "Smart Pocket": 56% (130.698/232s)
-[1]Lisma       |17:24:51 | 12-10-2026| music "Smart Pocket": 60% (140.7375/232s)
-[1]Lisma       |17:25:02 | 12-10-2026| music "Smart Pocket": 64% (150.77790000000002/232s)
-[1]Lisma       |17:25:13 | 12-10-2026| music "Smart Pocket": 69% (160.81470000000002/232s)
-[1]Lisma       |17:25:24 | 12-10-2026| music "Smart Pocket": 73% (170.83890000000002/232s)
-[1]Lisma       |17:25:36 | 12-10-2026| music "Smart Pocket": 77% (180.7803/232s)
-[1]Lisma       |17:25:47 | 12-10-2026| music "Smart Pocket": 82% (191.3535/232s)
-[1]Lisma       |17:25:47 | 12-10-2026| music "Smart Pocket": selesai 191.3535s
-[1]Lisma       |17:25:49 | 12-10-2026| music memutar "神様みたいに" (254s)...
-[1]Lisma       |17:26:00 | 12-10-2026| music "神様みたいに": 3% (9.0054/254s)
-[1]Lisma       |17:26:11 | 12-10-2026| music "神様みたいに": 7% (18.9252/254s)
-[1]Lisma       |17:26:23 | 12-10-2026| music "神様みたいに": 11% (28.8567/254s)
-[1]Lisma       |17:26:34 | 12-10-2026| music "神様みたいに": 15% (38.9574/254s)
-[1]Lisma       |17:26:46 | 12-10-2026| music "神様みたいに": 19% (48.9195/254s)
-[1]Lisma       |17:26:57 | 12-10-2026| music "神様みたいに": 23% (60.0399/254s)
-[1]Lisma       |17:27:08 | 12-10-2026| music "神様みたいに": 27% (70.01100000000001/254s)
-[1]Lisma       |17:27:19 | 12-10-2026| music "神様みたいに": 31% (79.90920000000001/254s)
-[1]Lisma       |17:27:31 | 12-10-2026| music "神様みたいに": 35% (90.20610000000002/254s)
-[1]Lisma       |17:27:42 | 12-10-2026| music "神様みたいに": 39% (100.31850000000003/254s)
-[1]Lisma       |17:27:53 | 12-10-2026| music "神様みたいに": 43% (110.24190000000003/254s)
-[1]Lisma       |17:28:04 | 12-10-2026| music "神様みたいに": 47% (120.13920000000003/254s)
-[1]Lisma       |17:28:15 | 12-10-2026| music "神様みたいに": 51% (129.98970000000003/254s)
-[1]Lisma       |17:28:26 | 12-10-2026| music "神様みたいに": 55% (140.04990000000004/254s)
-[1]Lisma       |17:28:37 | 12-10-2026| music "神様みたいに": 59% (150.03450000000004/254s)
-[1]Lisma       |17:28:50 | 12-10-2026| music "神様みたいに": 63% (160.20180000000005/254s)
-[1]Lisma       |17:29:01 | 12-10-2026| music "神様みたいに": 67% (171.37530000000004/254s)
-[1]Lisma       |17:29:12 | 12-10-2026| music "神様みたいに": 71% (181.32840000000004/254s)
-[1]Lisma       |17:29:23 | 12-10-2026| music "神様みたいに": 75% (191.21040000000005/254s)
-[1]Lisma       |17:29:34 | 12-10-2026| music "神様みたいに": 79% (201.07170000000005/254s)
-[1]Lisma       |17:29:45 | 12-10-2026| music "神様みたいに": 83% (211.10130000000004/254s)
-[1]Lisma       |17:29:45 | 12-10-2026| music "神様みたいに": selesai 211.10130000000004s
-[1]Lisma       |17:29:48 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Lisma       |17:29:59 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Lisma       |17:30:10 | 12-10-2026| music "せーので、飛ぼう！": 6% (18.819000000000003/269s)
-[1]Lisma       |17:30:21 | 12-10-2026| music "せーので、飛ぼう！": 10% (28.895400000000002/269s)
-[1]Lisma       |17:30:32 | 12-10-2026| music "せーので、飛ぼう！": 14% (38.828700000000005/269s)
-[1]Lisma       |17:30:43 | 12-10-2026| music "せーので、飛ぼう！": 18% (48.698100000000004/269s)
-[1]Lisma       |17:30:54 | 12-10-2026| music "せーので、飛ぼう！": 21% (58.885200000000005/269s)
-[1]Lisma       |17:31:05 | 12-10-2026| music "せーので、飛ぼう！": 25% (68.7492/269s)
-[1]Lisma       |17:31:16 | 12-10-2026| music "せーので、飛ぼう！": 29% (78.6645/269s)
-[1]Lisma       |17:31:27 | 12-10-2026| music "せーので、飛ぼう！": 32% (88.6032/269s)
-[1]Lisma       |17:31:38 | 12-10-2026| music "せーので、飛ぼう！": 36% (98.5626/269s)
-[1]Lisma       |17:31:49 | 12-10-2026| music "せーので、飛ぼう！": 40% (108.5103/269s)
-[1]Lisma       |17:32:00 | 12-10-2026| music "せーので、飛ぼう！": 44% (118.6623/269s)
-[1]Lisma       |17:32:11 | 12-10-2026| music "せーので、飛ぼう！": 47% (128.565/269s)
-[1]Lisma       |17:32:23 | 12-10-2026| music "せーので、飛ぼう！": 51% (138.4965/269s)
-[1]Lisma       |17:32:35 | 12-10-2026| music "せーので、飛ぼう！": 55% (148.4793/269s)
-[1]Lisma       |17:32:46 | 12-10-2026| music "せーので、飛ぼう！": 59% (159.255/269s)
-[1]Lisma       |17:32:57 | 12-10-2026| music "せーので、飛ぼう！": 62% (169.2648/269s)
-[1]Lisma       |17:33:08 | 12-10-2026| music "せーので、飛ぼう！": 66% (179.62560000000002/269s)
-[1]Lisma       |17:33:19 | 12-10-2026| music "せーので、飛ぼう！": 70% (189.45720000000003/269s)
-[1]Lisma       |17:33:30 | 12-10-2026| music "せーので、飛ぼう！": 74% (199.39590000000004/269s)
-[1]Lisma       |17:33:41 | 12-10-2026| music "せーので、飛ぼう！": 77% (209.33010000000004/269s)
-[1]Lisma       |17:33:52 | 12-10-2026| music "せーので、飛ぼう！": 81% (219.17610000000005/269s)
-[1]Lisma       |17:33:53 | 12-10-2026| music "せーので、飛ぼう！": selesai 219.17610000000005s
-[1]Lisma       |17:33:55 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Lisma       |17:34:06 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
-[1]Lisma       |17:34:17 | 12-10-2026| music "ON CHAIN NEXUS": 6% (18.9882/276s)
-[1]Lisma       |17:34:28 | 12-10-2026| music "ON CHAIN NEXUS": 10% (28.953/276s)
-[1]Lisma       |17:34:40 | 12-10-2026| music "ON CHAIN NEXUS": 14% (38.7774/276s)
-[1]Lisma       |17:34:51 | 12-10-2026| music "ON CHAIN NEXUS": 17% (48.9267/276s)
-[1]Lisma       |17:35:02 | 12-10-2026| music "ON CHAIN NEXUS": 21% (58.900499999999994/276s)
-[1]Lisma       |17:35:13 | 12-10-2026| music "ON CHAIN NEXUS": 24% (68.83109999999999/276s)
-[1]Lisma       |17:35:24 | 12-10-2026| music "ON CHAIN NEXUS": 28% (78.7932/276s)
-[1]Lisma       |17:35:35 | 12-10-2026| music "ON CHAIN NEXUS": 32% (88.58789999999999/276s)
-[1]Lisma       |17:35:46 | 12-10-2026| music "ON CHAIN NEXUS": 35% (98.90549999999999/276s)
-[1]Lisma       |17:35:57 | 12-10-2026| music "ON CHAIN NEXUS": 39% (108.79829999999998/276s)
-[1]Lisma       |17:36:08 | 12-10-2026| music "ON CHAIN NEXUS": 42% (118.65509999999998/276s)
-[1]Lisma       |17:36:19 | 12-10-2026| music "ON CHAIN NEXUS": 46% (128.63249999999996/276s)
-[1]Lisma       |17:36:30 | 12-10-2026| music "ON CHAIN NEXUS": 50% (138.58289999999997/276s)
-[1]Lisma       |17:36:41 | 12-10-2026| music "ON CHAIN NEXUS": 53% (148.51079999999996/276s)
-[1]Lisma       |17:36:52 | 12-10-2026| music "ON CHAIN NEXUS": 57% (158.41079999999997/276s)
-[1]Lisma       |17:37:03 | 12-10-2026| music "ON CHAIN NEXUS": 60% (168.22619999999998/276s)
-[1]Lisma       |17:37:14 | 12-10-2026| music "ON CHAIN NEXUS": 64% (178.11449999999996/276s)
-[1]Lisma       |17:37:25 | 12-10-2026| music "ON CHAIN NEXUS": 68% (188.23409999999996/276s)
-[1]Lisma       |17:37:36 | 12-10-2026| music "ON CHAIN NEXUS": 71% (198.10619999999994/276s)
-[1]Lisma       |17:37:47 | 12-10-2026| music "ON CHAIN NEXUS": 75% (208.05119999999994/276s)
-[1]Lisma       |17:37:58 | 12-10-2026| music "ON CHAIN NEXUS": 78% (217.94039999999993/276s)
-[1]Lisma       |17:38:10 | 12-10-2026| music "ON CHAIN NEXUS": 82% (227.81339999999992/276s)
-[1]Lisma       |17:38:10 | 12-10-2026| music "ON CHAIN NEXUS": selesai 227.81339999999992s
-[1]Lisma       |17:38:11 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Lisma       |17:38:14 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Lisma       |17:38:18 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Lisma       |17:38:22 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Lisma       |15:28:03 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Lisma       |15:28:04 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Lisma       |15:28:04 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lisma       |15:28:04 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisma menjalankan: Claim Missions
-[1]Lisma       |17:38:25 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Lisma       |17:38:25 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lisma       |17:38:25 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lisma       |15:28:05 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Lisma       |15:28:05 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lisma       |15:28:05 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisma menjalankan: Check Eligibility
 
 --- eligibility [1]Lisma ---
-  @lismaviranda | score=940 rank=6498
-  tasks    [##################--] 70/80
+  @lismaviranda | score=1080 rank=5785
+  tasks    [###################-] 75/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -245,249 +70,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lisma menjalankan: Read Manga
-[1]Lisma       |17:38:28 | 12-10-2026| manga: 13/13 chapter belum completed
-[1]Lisma       |17:38:28 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Lisma       |17:38:34 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Lisma       |17:38:38 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 4s
-[1]Lisma       |17:38:43 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 9s
-[1]Lisma       |17:38:47 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 14s
-[1]Lisma       |17:38:52 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 18s
-[1]Lisma       |17:38:56 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 22s
-[1]Lisma       |17:39:01 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 27s
-[1]Lisma       |17:39:05 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 31s
-[1]Lisma       |17:39:10 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 36s
-[1]Lisma       |17:39:14 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 40s
-[1]Lisma       |17:39:19 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 45s
-[1]Lisma       |17:39:23 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 49s
-[1]Lisma       |17:39:28 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 54s
-[1]Lisma       |17:39:32 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 58s
-[1]Lisma       |17:39:36 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 63s
-[1]Lisma       |17:39:41 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 67s
-[1]Lisma       |17:39:45 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 71s
-[1]Lisma       |17:39:50 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 76s
-[1]Lisma       |17:39:54 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 80s
-[1]Lisma       |17:39:59 | 12-10-2026| manga ch1 (1): COMPLETED
-[1]Lisma       |17:40:02 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Lisma       |17:40:07 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Lisma       |17:40:12 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
-[1]Lisma       |17:40:17 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 10s
-[1]Lisma       |17:40:21 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
-[1]Lisma       |17:40:26 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
-[1]Lisma       |17:40:30 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
-[1]Lisma       |17:40:35 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 27s
-[1]Lisma       |17:40:40 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 32s
-[1]Lisma       |17:40:45 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
-[1]Lisma       |17:40:49 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 42s
-[1]Lisma       |17:40:54 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 47s
-[1]Lisma       |17:40:58 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
-[1]Lisma       |17:41:03 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 55s
-[1]Lisma       |17:41:07 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 60s
-[1]Lisma       |17:41:12 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 64s
-[1]Lisma       |17:41:17 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 69s
-[1]Lisma       |17:41:21 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 74s
-[1]Lisma       |17:41:26 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 78s
-[1]Lisma       |17:41:30 | 12-10-2026| manga ch2 (450001): COMPLETED
-[1]Lisma       |17:41:33 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Lisma       |17:41:38 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Lisma       |17:41:43 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
-[1]Lisma       |17:41:47 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Lisma       |17:41:52 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
-[1]Lisma       |17:41:56 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 18s
-[1]Lisma       |17:42:01 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
-[1]Lisma       |17:42:05 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 27s
-[1]Lisma       |17:42:10 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 32s
-[1]Lisma       |17:42:15 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 36s
-[1]Lisma       |17:42:19 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 41s
-[1]Lisma       |17:42:24 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 45s
-[1]Lisma       |17:42:28 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 50s
-[1]Lisma       |17:42:32 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 54s
-[1]Lisma       |17:42:37 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 59s
-[1]Lisma       |17:42:42 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 63s
-[1]Lisma       |17:42:46 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 68s
-[1]Lisma       |17:42:50 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 72s
-[1]Lisma       |17:42:55 | 12-10-2026| manga ch3 (2160001): COMPLETED
-[1]Lisma       |17:42:58 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Lisma       |17:43:03 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Lisma       |17:43:07 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 4s
-[1]Lisma       |17:43:12 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
-[1]Lisma       |17:43:16 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 13s
-[1]Lisma       |17:43:20 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 17s
-[1]Lisma       |17:43:25 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 22s
-[1]Lisma       |17:43:29 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 26s
-[1]Lisma       |17:43:33 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 31s
-[1]Lisma       |17:43:38 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 35s
-[1]Lisma       |17:43:43 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 39s
-[1]Lisma       |17:43:47 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 44s
-[1]Lisma       |17:43:52 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 49s
-[1]Lisma       |17:43:56 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 53s
-[1]Lisma       |17:44:01 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 58s
-[1]Lisma       |17:44:05 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 62s
-[1]Lisma       |17:44:10 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 67s
-[1]Lisma       |17:44:14 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 71s
-[1]Lisma       |17:44:18 | 12-10-2026| manga ch4 (2400001): COMPLETED
-[1]Lisma       |17:44:21 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Lisma       |17:44:27 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Lisma       |17:44:31 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 4s
-[1]Lisma       |17:44:35 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Lisma       |17:44:40 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 13s
-[1]Lisma       |17:44:44 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
-[1]Lisma       |17:44:48 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 22s
-[1]Lisma       |17:44:53 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 26s
-[1]Lisma       |17:44:57 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 31s
-[1]Lisma       |17:45:02 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 35s
-[1]Lisma       |17:45:06 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 39s
-[1]Lisma       |17:45:14 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 44s
-[1]Lisma       |17:45:18 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 52s
-[1]Lisma       |17:45:22 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 56s
-[1]Lisma       |17:45:27 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 60s
-[1]Lisma       |17:45:31 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 65s
-[1]Lisma       |17:45:36 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 69s
-[1]Lisma       |17:45:40 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 73s
-[1]Lisma       |17:45:44 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 78s
-[1]Lisma       |17:45:49 | 12-10-2026| manga ch5 (2490001): COMPLETED
-[1]Lisma       |17:45:52 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Lisma       |17:45:57 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Lisma       |17:46:01 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 4s
-[1]Lisma       |17:46:06 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
-[1]Lisma       |17:46:10 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 13s
-[1]Lisma       |17:46:15 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
-[1]Lisma       |17:46:19 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 22s
-[1]Lisma       |17:46:25 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
-[1]Lisma       |17:46:30 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
-[1]Lisma       |17:46:34 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 37s
-[1]Lisma       |17:46:38 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
-[1]Lisma       |17:46:43 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 46s
-[1]Lisma       |17:46:47 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 50s
-[1]Lisma       |17:46:52 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 55s
-[1]Lisma       |17:46:56 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 59s
-[1]Lisma       |17:47:00 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 63s
-[1]Lisma       |17:47:05 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 68s
-[1]Lisma       |17:47:09 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 72s
-[1]Lisma       |17:47:14 | 12-10-2026| manga ch6 (2610001): COMPLETED
-[1]Lisma       |17:47:17 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Lisma       |17:47:22 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Lisma       |17:47:26 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
-[1]Lisma       |17:47:31 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
-[1]Lisma       |17:47:36 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 13s
-[1]Lisma       |17:47:40 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 18s
-[1]Lisma       |17:47:45 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 22s
-[1]Lisma       |17:47:49 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 27s
-[1]Lisma       |17:47:54 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 32s
-[1]Lisma       |17:47:58 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 36s
-[1]Lisma       |17:48:02 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 40s
-[1]Lisma       |17:48:07 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 45s
-[1]Lisma       |17:48:11 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 49s
-[1]Lisma       |17:48:16 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 53s
-[1]Lisma       |17:48:20 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 58s
-[1]Lisma       |17:48:24 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 62s
-[1]Lisma       |17:48:29 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 67s
-[1]Lisma       |17:48:33 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 71s
-[1]Lisma       |17:48:37 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 75s
-[1]Lisma       |17:48:42 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 80s
-[1]Lisma       |17:48:46 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 84s
-[1]Lisma       |17:48:51 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 88s
-[1]Lisma       |17:48:55 | 12-10-2026| manga ch1 (180003): COMPLETED
-[1]Lisma       |17:48:58 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Lisma       |17:49:03 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Lisma       |17:49:08 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
-[1]Lisma       |17:49:12 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
-[1]Lisma       |17:49:16 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 13s
-[1]Lisma       |17:49:22 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 17s
-[1]Lisma       |17:49:26 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 23s
-[1]Lisma       |17:49:30 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 27s
-[1]Lisma       |17:49:35 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 32s
-[1]Lisma       |17:49:40 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 36s
-[1]Lisma       |17:49:46 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 41s
-[1]Lisma       |17:49:50 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 47s
-[1]Lisma       |17:49:56 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 52s
-[1]Lisma       |17:50:00 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 57s
-[1]Lisma       |17:50:05 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 62s
-[1]Lisma       |17:50:09 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 66s
-[1]Lisma       |17:50:14 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 71s
-[1]Lisma       |17:50:18 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 75s
-[1]Lisma       |17:50:23 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 79s
-[1]Lisma       |17:50:27 | 12-10-2026| manga ch2 (990005): COMPLETED
-[1]Lisma       |17:50:30 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Lisma       |17:50:36 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Lisma       |17:50:40 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
-[1]Lisma       |17:50:45 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
-[1]Lisma       |17:50:49 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 14s
-[1]Lisma       |17:50:54 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 18s
-[1]Lisma       |17:50:58 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 22s
-[1]Lisma       |17:51:02 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 27s
-[1]Lisma       |17:51:07 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 31s
-[1]Lisma       |17:51:11 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 36s
-[1]Lisma       |17:51:16 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 40s
-[1]Lisma       |17:51:21 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 45s
-[1]Lisma       |17:51:26 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 50s
-[1]Lisma       |17:51:30 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 55s
-[1]Lisma       |17:51:35 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 59s
-[1]Lisma       |17:51:39 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 64s
-[1]Lisma       |17:51:44 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 68s
-[1]Lisma       |17:51:48 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 73s
-[1]Lisma       |17:51:53 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 77s
-[1]Lisma       |17:51:57 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 82s
-[1]Lisma       |17:52:02 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 86s
-[1]Lisma       |17:52:07 | 12-10-2026| manga ch3 (1980001): COMPLETED
-[1]Lisma       |17:52:10 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Lisma       |17:52:15 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Lisma       |17:52:20 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 4s
-[1]Lisma       |17:52:24 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
-[1]Lisma       |17:52:29 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
-[1]Lisma       |17:52:34 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 18s
-[1]Lisma       |17:52:38 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 23s
-[1]Lisma       |17:52:43 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 27s
-[1]Lisma       |17:52:47 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 32s
-[1]Lisma       |17:52:52 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 37s
-[1]Lisma       |17:52:56 | 12-10-2026| manga ch1 (2100001): COMPLETED
-[1]Lisma       |17:52:59 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Lisma       |17:53:05 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Lisma       |17:53:10 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
-[1]Lisma       |17:53:15 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 10s
-[1]Lisma       |17:53:19 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
-[1]Lisma       |17:53:23 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
-[1]Lisma       |17:53:28 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 23s
-[1]Lisma       |17:53:32 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
-[1]Lisma       |17:53:36 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
-[1]Lisma       |17:53:41 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 36s
-[1]Lisma       |17:53:46 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 41s
-[1]Lisma       |17:53:51 | 12-10-2026| manga ch1 (2070001): COMPLETED
-[1]Lisma       |17:53:54 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Lisma       |17:53:59 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Lisma       |17:54:04 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
-[1]Lisma       |17:54:08 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
-[1]Lisma       |17:54:12 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 13s
-[1]Lisma       |17:54:17 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
-[1]Lisma       |17:54:21 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 22s
-[1]Lisma       |17:54:26 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 26s
-[1]Lisma       |17:54:30 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 31s
-[1]Lisma       |17:54:35 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 35s
-[1]Lisma       |17:54:39 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 40s
-[1]Lisma       |17:54:44 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 44s
-[1]Lisma       |17:54:48 | 12-10-2026| manga ch2 (2520001): COMPLETED
-[1]Lisma       |17:54:51 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Lisma       |17:54:56 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Lisma       |17:55:01 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 4s
-[1]Lisma       |17:55:06 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
-[1]Lisma       |17:55:10 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
-[1]Lisma       |17:55:15 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
-[1]Lisma       |17:55:20 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
-[1]Lisma       |17:55:24 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
-[1]Lisma       |17:55:28 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 32s
-[1]Lisma       |17:55:33 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 36s
-[1]Lisma       |17:55:37 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 41s
-[1]Lisma       |17:55:41 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 45s
-[1]Lisma       |17:55:46 | 12-10-2026| manga ch3 (2550001): COMPLETED
+[1]Lisma       |15:28:09 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Lisma menjalankan: Get Gift
-[1]Lisma       |17:55:52 | 12-10-2026| gift: 3/3 belum diterima
-[1]Lisma       |17:55:53 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Lisma       |17:55:55 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Lisma       |17:55:58 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Lisma       |15:28:10 | 13-10-2026| gift: 1/4 belum diterima
+[1]Lisma       |15:28:11 | 13-10-2026| gift [1/1] Silver Oshii: OK
 --> [1]Lisma menjalankan: Setup Profile
-[1]Lisma       |17:56:01 | 12-10-2026| profile: bio="https://x.com/lismaviranda" fav=oshi rewardAt=1791693529
-[1]Lisma       |17:56:01 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Lisma       |15:28:13 | 13-10-2026| profile: bio="https://x.com/lismaviranda" fav=oshi rewardAt=1791693529
+[1]Lisma       |15:28:13 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Lisma menjalankan: Bind Wallet
-[1]Lisma       |17:56:01 | 12-10-2026| wallet: sudah terikat 6hbkXMTu93... (solana)
+[1]Lisma       |15:28:14 | 13-10-2026| wallet: sudah terikat 6hbkXMTu93... (solana)
 
 == RINGKASAN ==
-- Lisma: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/3 completed | musik 6 trek ~1218.4119s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile - | wallet bound | mint req=false open=false
+- Lisma: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
