@@ -12,133 +12,50 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lisma =====
-[1]Lisma       |08:05:29 | 20-10-2026| login OK @lismaviranda | score=1480 rank=4768
-[1]Lisma       |08:05:29 | 20-10-2026| serverTime=2026-10-20T08:05:29.000Z local=2026-10-20T08:05:29.594Z
+[1]Lisma       |08:11:14 | 21-10-2026| login OK @lismaviranda | score=1550 rank=4602
+[1]Lisma       |08:11:14 | 21-10-2026| serverTime=2026-10-21T08:11:14.000Z local=2026-10-21T08:11:14.692Z
 --> [1]Lisma menjalankan: Claim Daily
-[1]Lisma       |08:05:30 | 20-10-2026| daily: OK +10 poin score=1490
+[1]Lisma       |08:11:15 | 21-10-2026| daily: OK +10 poin score=1560
 --> [1]Lisma menjalankan: Auto All Tasks (6 pending)
-[1]Lisma       |08:05:32 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lismaviranda/status/2112454760808882502
-[1]Lisma       |08:05:32 | 20-10-2026| delay 10s...
-[1]Lisma       |08:05:45 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lismaviranda/status/2112454815626740447
-[1]Lisma       |08:05:45 | 20-10-2026| delay 10s...
-[1]Lisma       |08:05:57 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lismaviranda/status/2112454884658539923
-[1]Lisma       |08:05:57 | 20-10-2026| delay 10s...
-[1]Lisma       |08:06:09 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lismaviranda/status/2112454857068534167
-[1]Lisma       |08:06:09 | 20-10-2026| delay 10s...
-[1]Lisma       |08:06:22 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lismaviranda/status/2112455021088267878
-[1]Lisma       |08:06:22 | 20-10-2026| delay 10s...
-[1]Lisma       |08:06:34 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/lismaviranda/status/2112455149081674525
-[1]Lisma       |08:06:34 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lisma       |08:06:36 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/lismaviranda/status/2112455019608504696
+[1]Lisma       |08:11:18 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/lismaviranda/status/2112818583220382300
+[1]Lisma       |08:11:18 | 21-10-2026| delay 10s...
+[1]Lisma       |08:11:30 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/lismaviranda/status/2112818765276869676
+[1]Lisma       |08:11:30 | 21-10-2026| delay 10s...
+[1]Lisma       |08:11:44 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/lismaviranda/status/2112818469397648806
+[1]Lisma       |08:11:44 | 21-10-2026| delay 10s...
+[1]Lisma       |08:11:56 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/lismaviranda/status/2112818575867978562
+[1]Lisma       |08:11:56 | 21-10-2026| delay 10s...
+[1]Lisma       |08:12:10 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/lismaviranda/status/2112818802970420741
+[1]Lisma       |08:12:10 | 21-10-2026| delay 10s...
+[1]Lisma       |08:12:23 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Lisma       |08:12:23 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lisma       |08:12:25 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/lismaviranda/status/2112818774827648009
 --> [1]Lisma menjalankan: Watch Anime
-[1]Lisma       |08:06:37 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Lisma       |08:06:37 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Lisma       |08:06:38 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Lisma       |08:06:45 | 20-10-2026| watch oshi-captains-hat: 5% (5.26/92.00s)
-[1]Lisma       |08:06:51 | 20-10-2026| watch oshi-captains-hat: 11% (10.82/92.00s)
-[1]Lisma       |08:06:57 | 20-10-2026| watch oshi-captains-hat: 17% (16.37/92.00s)
-[1]Lisma       |08:07:03 | 20-10-2026| watch oshi-captains-hat: 24% (22.16/92.00s)
-[1]Lisma       |08:07:10 | 20-10-2026| watch oshi-captains-hat: 30% (27.78/92.00s)
-[1]Lisma       |08:07:17 | 20-10-2026| watch oshi-captains-hat: 36% (33.59/92.00s)
-[1]Lisma       |08:07:23 | 20-10-2026| watch oshi-captains-hat: 43% (39.72/92.00s)
-[1]Lisma       |08:07:29 | 20-10-2026| watch oshi-captains-hat: 49% (45.32/92.00s)
-[1]Lisma       |08:07:35 | 20-10-2026| watch oshi-captains-hat: 55% (50.93/92.00s)
-[1]Lisma       |08:07:42 | 20-10-2026| watch oshi-captains-hat: 61% (56.46/92.00s)
-[1]Lisma       |08:07:48 | 20-10-2026| watch oshi-captains-hat: 67% (62.21/92.00s)
-[1]Lisma       |08:07:54 | 20-10-2026| watch oshi-captains-hat: 73% (67.72/92.00s)
-[1]Lisma       |08:08:01 | 20-10-2026| watch oshi-captains-hat: 79% (73.29/92.00s)
-[1]Lisma       |08:08:07 | 20-10-2026| watch oshi-captains-hat: 86% (79.25/92.00s)
-[1]Lisma       |08:08:14 | 20-10-2026| watch oshi-captains-hat: 92% (85.20/92.00s)
-[1]Lisma       |08:08:14 | 20-10-2026| watch oshi-captains-hat: COMPLETED (85.20/92.00s)
-[1]Lisma       |08:08:19 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Lisma       |08:08:21 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Lisma       |08:08:27 | 20-10-2026| watch oshi-rainbow-star: 6% (5.26/86.00s)
-[1]Lisma       |08:08:34 | 20-10-2026| watch oshi-rainbow-star: 13% (11.38/86.00s)
-[1]Lisma       |08:08:40 | 20-10-2026| watch oshi-rainbow-star: 20% (17.41/86.00s)
-[1]Lisma       |08:08:47 | 20-10-2026| watch oshi-rainbow-star: 26% (23.02/86.00s)
-[1]Lisma       |08:08:53 | 20-10-2026| watch oshi-rainbow-star: 33% (28.54/86.00s)
-[1]Lisma       |08:08:59 | 20-10-2026| watch oshi-rainbow-star: 39% (34.11/86.00s)
-[1]Lisma       |08:09:05 | 20-10-2026| watch oshi-rainbow-star: 46% (39.64/86.00s)
-[1]Lisma       |08:09:12 | 20-10-2026| watch oshi-rainbow-star: 52% (45.29/86.00s)
-[1]Lisma       |08:09:18 | 20-10-2026| watch oshi-rainbow-star: 59% (51.26/86.00s)
-[1]Lisma       |08:09:24 | 20-10-2026| watch oshi-rainbow-star: 66% (56.84/86.00s)
-[1]Lisma       |08:09:30 | 20-10-2026| watch oshi-rainbow-star: 72% (62.37/86.00s)
-[1]Lisma       |08:09:37 | 20-10-2026| watch oshi-rainbow-star: 78% (67.90/86.00s)
-[1]Lisma       |08:09:43 | 20-10-2026| watch oshi-rainbow-star: 85% (73.56/86.00s)
-[1]Lisma       |08:09:49 | 20-10-2026| watch oshi-rainbow-star: 92% (79.35/86.00s)
-[1]Lisma       |08:09:49 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (79.35/86.00s)
-[1]Lisma       |08:09:54 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Lisma       |08:09:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Lisma       |08:10:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.27/87.00s)
-[1]Lisma       |08:10:08 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.90/87.00s)
-[1]Lisma       |08:10:18 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.51/87.00s)
-[1]Lisma       |08:10:25 | 20-10-2026| watch oshi-rainbow-lighthouse: 27% (23.50/87.00s)
-[1]Lisma       |08:10:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 35% (30.46/87.00s)
-[1]Lisma       |08:10:39 | 20-10-2026| watch oshi-rainbow-lighthouse: 43% (37.60/87.00s)
-[1]Lisma       |08:10:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 50% (43.78/87.00s)
-[1]Lisma       |08:10:52 | 20-10-2026| watch oshi-rainbow-lighthouse: 57% (49.78/87.00s)
-[1]Lisma       |08:11:00 | 20-10-2026| watch oshi-rainbow-lighthouse: 64% (55.97/87.00s)
-[1]Lisma       |08:11:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 72% (62.93/87.00s)
-[1]Lisma       |08:11:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 79% (69.09/87.00s)
-[1]Lisma       |08:11:20 | 20-10-2026| watch oshi-rainbow-lighthouse: 86% (74.89/87.00s)
-[1]Lisma       |08:11:26 | 20-10-2026| watch oshi-rainbow-lighthouse: 92% (80.86/87.00s)
-[1]Lisma       |08:11:26 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (80.86/87.00s)
-[1]Lisma       |08:11:31 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Lisma       |08:11:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Lisma       |08:11:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.27/181.00s)
-[1]Lisma       |08:11:46 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (10.94/181.00s)
-[1]Lisma       |08:11:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.59/181.00s)
-[1]Lisma       |08:11:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.50/181.00s)
-[1]Lisma       |08:12:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.02/181.00s)
-[1]Lisma       |08:12:12 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.56/181.00s)
-[1]Lisma       |08:12:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 22% (39.90/181.00s)
-[1]Lisma       |08:12:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.45/181.00s)
-[1]Lisma       |08:12:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.32/181.00s)
-[1]Lisma       |08:12:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.86/181.00s)
-[1]Lisma       |08:12:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.74/181.00s)
-[1]Lisma       |08:12:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.27/181.00s)
-[1]Lisma       |08:12:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 40% (74.11/181.00s)
-[1]Lisma       |08:13:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (79.64/181.00s)
-[1]Lisma       |08:13:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 47% (85.26/181.00s)
-[1]Lisma       |08:13:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 50% (90.76/181.00s)
-[1]Lisma       |08:13:21 | 20-10-2026| watch bakeru-ikesou-jan-mv: 53% (96.26/181.00s)
-[1]Lisma       |08:13:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.86/181.00s)
-[1]Lisma       |08:13:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.54/181.00s)
-[1]Lisma       |08:13:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 62% (113.10/181.00s)
-[1]Lisma       |08:13:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.65/181.00s)
-[1]Lisma       |08:13:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.23/181.00s)
-[1]Lisma       |08:13:59 | 20-10-2026| watch bakeru-ikesou-jan-mv: 72% (130.36/181.00s)
-[1]Lisma       |08:14:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 75% (136.17/181.00s)
-[1]Lisma       |08:14:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.72/181.00s)
-[1]Lisma       |08:14:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.26/181.00s)
-[1]Lisma       |08:14:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 84% (153.14/181.00s)
-[1]Lisma       |08:14:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.65/181.00s)
-[1]Lisma       |08:14:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 90% (164.20/181.00s)
-[1]Lisma       |08:14:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (164.20/181.00s)
+[1]Lisma       |08:12:26 | 21-10-2026| watch: semua video sudah completed
 --> [1]Lisma menjalankan: Read Article
-[1]Lisma       |08:14:38 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Lisma       |08:14:39 | 20-10-2026| mint eligibility: {"userId":"2011492164342333441","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@lismaviranda","status":"submitted","revision":"2ee02253-5f3b-45b8-95a1-d33d0bfa0
-[1]Lisma       |08:14:39 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Lisma       |08:12:27 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Lisma       |08:12:28 | 21-10-2026| mint eligibility: {"userId":"2011492164342333441","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@lismaviranda","status":"submitted","revision":"2ee02253-5f3b-45b8-95a1-d33d0bfa0
+[1]Lisma       |08:12:34 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Lisma menjalankan: Quiz Anime
-[1]Lisma       |08:14:40 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Lisma       |08:14:40 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Lisma       |08:14:40 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Lisma       |08:14:40 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Lisma       |08:14:40 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Lisma       |08:14:40 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Lisma       |08:12:38 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Lisma       |08:12:38 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Lisma       |08:12:38 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Lisma       |08:12:38 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Lisma       |08:12:38 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Lisma       |08:12:38 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Lisma menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lisma       |08:14:42 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Lisma       |08:14:42 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Lisma       |08:14:42 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lisma       |08:14:42 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lisma       |08:12:40 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Lisma       |08:12:40 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Lisma       |08:12:40 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lisma       |08:12:40 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisma menjalankan: Claim Missions
-[1]Lisma       |08:14:43 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Lisma       |08:14:43 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lisma       |08:14:43 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lisma       |08:12:41 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Lisma       |08:12:41 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lisma       |08:12:41 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisma menjalankan: Check Eligibility
 
 --- eligibility [1]Lisma ---
-  @lismaviranda | score=1480 rank=4768
+  @lismaviranda | score=1550 rank=4602
   tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
@@ -150,14 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lisma menjalankan: Read Manga
-[1]Lisma       |08:14:47 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Lisma       |08:12:45 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Lisma menjalankan: Get Gift
-[1]Lisma       |08:14:47 | 20-10-2026| gift: 0/4 belum diterima
+[1]Lisma       |08:12:46 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Lisma menjalankan: Setup Profile
-[1]Lisma       |08:14:48 | 20-10-2026| profile: bio="https://x.com/lismaviranda" fav=oshi rewardAt=1791693529
-[1]Lisma       |08:14:48 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Lisma       |08:12:47 | 21-10-2026| profile: bio="https://x.com/lismaviranda" fav=oshi rewardAt=1791693529
+[1]Lisma       |08:12:47 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Lisma menjalankan: Bind Wallet
-[1]Lisma       |08:14:48 | 20-10-2026| wallet: sudah terikat 6hbkXMTu93... (solana)
+[1]Lisma       |08:12:47 | 21-10-2026| wallet: sudah terikat 6hbkXMTu93... (solana)
 
 == RINGKASAN ==
-- Lisma: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Lisma: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
