@@ -12,73 +12,68 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lisma =====
-[1]Lisma       |11:41:35 | 01-11-2026| login OK @lismaviranda | score=2510 rank=3236
-[1]Lisma       |11:41:35 | 01-11-2026| serverTime=2026-11-01T11:41:35.000Z local=2026-11-01T11:41:35.710Z
+[1]Lisma       |13:07:38 | 02-11-2026| login OK @lismaviranda | score=2630 rank=3044
+[1]Lisma       |13:07:38 | 02-11-2026| serverTime=2026-11-02T13:07:38.000Z local=2026-11-02T13:07:38.999Z
 --> [1]Lisma menjalankan: Claim Daily
-[1]Lisma       |11:41:36 | 01-11-2026| daily: OK +10 poin score=2520
---> [1]Lisma menjalankan: Auto All Tasks (11 pending)
-[1]Lisma       |11:41:41 | 01-11-2026| [1/11] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116857618637071142
-[1]Lisma       |11:41:41 | 01-11-2026| delay 10s...
-[1]Lisma       |11:41:53 | 01-11-2026| [2/11] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116857959583188122
-[1]Lisma       |11:41:53 | 01-11-2026| delay 10s...
-[1]Lisma       |11:42:08 | 01-11-2026| [3/11] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116857751869137037
-[1]Lisma       |11:42:08 | 01-11-2026| delay 10s...
-[1]Lisma       |11:42:23 | 01-11-2026| [4/11] 8ac1a107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116857959476504174
-[1]Lisma       |11:42:23 | 01-11-2026| delay 10s...
-[1]Lisma       |11:42:37 | 01-11-2026| [5/11] 7354ea5e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116858014928227537
-[1]Lisma       |11:42:37 | 01-11-2026| delay 10s...
-[1]Lisma       |11:42:51 | 01-11-2026| [6/11] 07e2b02d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116858117155031249
-[1]Lisma       |11:42:51 | 01-11-2026| delay 10s...
-[1]Lisma       |11:43:06 | 01-11-2026| [7/11] 70541c21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116858196757158227
-[1]Lisma       |11:43:06 | 01-11-2026| delay 10s...
-[1]Lisma       |11:43:19 | 01-11-2026| [8/11] 55940470 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116858353947664135
-[1]Lisma       |11:43:19 | 01-11-2026| delay 10s...
-[1]Lisma       |11:43:30 | 01-11-2026| [9/11] 587d9c2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116858130698210670
-[1]Lisma       |11:43:30 | 01-11-2026| delay 10s...
-[1]Lisma       |11:43:43 | 01-11-2026| [10/11] 28bea61c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116858142404614735
-[1]Lisma       |11:43:43 | 01-11-2026| delay 10s...
-[1]Lisma       |11:43:55 | 01-11-2026| [11/11] 50117b4a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211685712648431 | proof=https://x.com/lismaviranda/status/2116858143365415004
-[1]Lisma       |11:43:55 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lisma       |11:43:57 | 01-11-2026| [1/1] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1622c12e-49b0-496d-8cc5-89cc42c5e5ef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116857126484316 | proof=https://x.com/lismaviranda/status/2116858283786125550
+[1]Lisma       |13:07:41 | 02-11-2026| daily: OK +10 poin score=2640
+--> [1]Lisma menjalankan: Auto All Tasks (7 pending)
+[1]Lisma       |13:07:47 | 02-11-2026| [1/7] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/lismaviranda/status/2117241667263359735
+[1]Lisma       |13:07:47 | 02-11-2026| delay 10s...
+[1]Lisma       |13:08:00 | 02-11-2026| [2/7] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/lismaviranda/status/2117241964926451823
+[1]Lisma       |13:08:00 | 02-11-2026| delay 10s...
+[1]Lisma       |13:08:13 | 02-11-2026| [3/7] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/lismaviranda/status/2117241765622033179
+[1]Lisma       |13:08:13 | 02-11-2026| delay 10s...
+[1]Lisma       |13:08:26 | 02-11-2026| [4/7] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/lismaviranda/status/2117241957664781224
+[1]Lisma       |13:08:26 | 02-11-2026| delay 10s...
+[1]Lisma       |13:08:42 | 02-11-2026| [5/7] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/lismaviranda/status/2117241857435465017
+[1]Lisma       |13:08:42 | 02-11-2026| delay 10s...
+[1]Lisma       |13:08:55 | 02-11-2026| [6/7] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/lismaviranda/status/2117242227055824050
+[1]Lisma       |13:08:55 | 02-11-2026| delay 10s...
+[1]Lisma       |13:09:10 | 02-11-2026| [7/7] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/lismaviranda/status/2117242320915890460
+[1]Lisma       |13:09:10 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lisma       |13:09:12 | 02-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/lismaviranda/status/2117242169644944609
 --> [1]Lisma menjalankan: Watch Anime
-[1]Lisma       |11:43:58 | 01-11-2026| watch: semua video sudah completed
+[1]Lisma       |13:09:13 | 02-11-2026| watch: semua video sudah completed
 --> [1]Lisma menjalankan: Read Article
-[1]Lisma       |11:43:59 | 01-11-2026| news: 32/33 artikel selesai dibaca
-[1]Lisma       |11:44:00 | 01-11-2026| mint eligibility: {"userId":"2011492164342333441","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@lismaviranda","status":"submitted","revision":"2ee02253-5f3b-45b8-95a1-d33d0bfa0
-[1]Lisma       |11:44:06 | 01-11-2026| news [1/1] oshi-labs-new-features-2026-11: OK completed=33
+[1]Lisma       |13:09:17 | 02-11-2026| news: 33/34 artikel selesai dibaca
+[1]Lisma       |13:09:18 | 02-11-2026| mint eligibility: {"userId":"2011492164342333441","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@lismaviranda","status":"submitted","revision":"2ee02253-5f3b-45b8-95a1-d33d0bfa0
+[1]Lisma       |13:09:27 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
 --> [1]Lisma menjalankan: Quiz Anime
 --> [1]Lisma menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lisma       |11:44:11 | 01-11-2026| music: kedua misi sudah tercapai, stop
-[1]Lisma       |11:44:12 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Lisma       |11:44:12 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lisma       |11:44:12 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lisma       |13:09:32 | 02-11-2026| music: kedua misi sudah tercapai, stop
+[1]Lisma       |13:09:33 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Lisma       |13:09:33 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lisma       |13:09:33 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisma menjalankan: Claim Missions
-[1]Lisma       |11:44:12 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Lisma       |11:44:12 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lisma       |11:44:12 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lisma       |13:09:34 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Lisma       |13:09:34 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lisma       |13:09:34 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisma menjalankan: Check Eligibility
 
 --- eligibility [1]Lisma ---
-  @lismaviranda | score=2510 rank=3236
-  tasks    [###-----------------] 2/13
+  @lismaviranda | score=2630 rank=3044
+  tasks    [###########---------] 8/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel  [####################] 33/33
+  artikel  [####################] 34/34
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lisma menjalankan: Read Manga
-[1]Lisma       |11:44:16 | 01-11-2026| manga: 0/13 chapter belum completed
+[1]Lisma       |13:09:39 | 02-11-2026| manga: 0/13 chapter belum completed
 --> [1]Lisma menjalankan: Get Gift
-[1]Lisma       |11:44:17 | 01-11-2026| gift: 0/6 belum diterima
+[1]Lisma       |13:09:43 | 02-11-2026| gift: 3/9 belum diterima
+[1]Lisma       |13:09:44 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lisma       |13:09:50 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lisma       |13:10:02 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Lisma menjalankan: Setup Profile
-[1]Lisma       |11:44:17 | 01-11-2026| profile: bio="https://x.com/lismaviranda" fav=oshi rewardAt=1791693529
-[1]Lisma       |11:44:17 | 01-11-2026| profile: bonus sudah diklaim, skip
+[1]Lisma       |13:10:05 | 02-11-2026| profile: bio="https://x.com/lismaviranda" fav=oshi rewardAt=1791693529
+[1]Lisma       |13:10:05 | 02-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Lisma menjalankan: Bind Wallet
-[1]Lisma       |11:44:18 | 01-11-2026| wallet: sudah terikat 6hbkXMTu93... (solana)
+[1]Lisma       |13:10:06 | 02-11-2026| wallet: sudah terikat 6hbkXMTu93... (solana)
 
 == RINGKASAN ==
-- Lisma: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
+- Lisma: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
